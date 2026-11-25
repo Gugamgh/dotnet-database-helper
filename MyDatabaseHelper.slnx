@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MyDatabaseHelper.Common/MyDatabaseHelper.Common.csproj" />
+  <Project Path="MyDatabaseHelper.MySql/MyDatabaseHelper.MySql.csproj" />
+  <Project Path="MyDatabaseHelper.Oracle/MyDatabaseHelper.Oracle.csproj" />
+  <Project Path="MyDatabaseHelper.SqlServer/MyDatabaseHelper.SqlServer.csproj" />
+  <Project Path="MyDatabaseHelper/MyDatabaseHelper.csproj" />
+</Solution>
